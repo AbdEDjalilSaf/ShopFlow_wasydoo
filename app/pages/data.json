@@ -1,0 +1,93 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "count": "150+ items",
+      "src": "https://i.pinimg.com/736x/2e/7e/bf/2e7ebf70acd0532100db82dcf624bfb3.jpg"
+    },
+    {
+      "name": "Fashion",
+      "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "count": "300+ items",
+      "src": "https://i.pinimg.com/736x/0d/7f/1f/0d7f1fd3efaa412b6a6ae5bb8d935fe2.jpg"
+    },
+    {
+      "name": "Home & Garden",
+      "image": "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "count": "200+ items",
+      "src": "https://i.pinimg.com/736x/01/37/00/0137003d5e4789dafd0a4a4c05af5b70.jpg"
+    },
+    {
+      "name": "Sports",
+      "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "count": "120+ items",      
+      "src": "https://i.pinimg.com/736x/39/4a/85/394a8514c21be4c0fc80e3d2a9879019.jpg"
+
+    }
+  ],
+  "featuredProducts": [
+    {
+      "id": 1,
+      "name": "Premium Wireless Headphones",
+      "price": 299.99,
+      "originalPrice": 399.99,
+      "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "rating": 4.8,
+      "reviews": 124,
+      "badge": "Best Seller"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "price": 199.99,
+      "originalPrice": 249.99,
+      "image": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "rating": 4.6,
+      "reviews": 89,
+      "badge": "New"
+    },
+    {
+      "id": 3,
+      "name": "Minimalist Backpack",
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "rating": 4.9,
+      "reviews": 203,
+      "badge": "Popular"
+    },
+    {
+      "id": 4,
+      "name": "Ceramic Coffee Mug Set",
+      "price": 34.99,
+      "originalPrice": 49.99,
+      "image": "https://images.pexels.com/photos/324030/pexels-photo-324030.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "rating": 4.7,
+      "reviews": 156,
+      "badge": "Sale"
+    }
+  ],
+  "features": [
+    {
+      "icon": "Truck",
+      "title": "Free Shipping",
+      "description": "Free shipping on orders over $50"
+    },
+    {
+      "icon": "Shield",
+      "title": "Secure Payment",
+      "description": "100% secure payment processing"
+    },
+    {
+      "icon": "Headphones",
+      "title": "24/7 Support",
+      "description": "Round-the-clock customer service"
+    },
+    {
+      "icon": "RotateCcw",
+      "title": "Easy Returns",
+      "description": "30-day hassle-free returns"
+    }
+  ]
+}
